@@ -1,0 +1,8 @@
+# Changelog Precipitation dataset - Kwakshua Watersheds Program, Hakai Institute
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+## [v1.0] - 2020-10
+-First version of precipication time-series ending 2019-10-01 (water year 2019). Data sheet is provided for full time series and per water year. 
+

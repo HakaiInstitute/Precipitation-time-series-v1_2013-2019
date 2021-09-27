@@ -1,0 +1,14 @@
+Header,Description ,
+Qlevel_RainSiteName,Quality level assigned to each record ,
+Qflag_RainSiteName,Final quality flag assigned to each record,
+RainSiteName,Water temperature in degrees celsius derived from 5min average,
+,,
+Measurement time,Date and time. The end time of 5min time intervals is used for averaged and summed data.,
+Format,MM/DD/YYYY HH:MM,
+Timezone,Pacific Standard Time [PST],
+,,
+Hakai Quality flags,,
+Code,Name,Description
+AV,Accepted Value,Value has been assessed and deemed acceptable by technician
+EV,Estimated Value,Value has been estimated using simple linear regression 
+MV,Missing value,No measured value available because of equipment failure etc. 
